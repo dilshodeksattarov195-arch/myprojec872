@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productsncrypt",
+        "uuid": 6164168,
+        "checksum": "4944u"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
